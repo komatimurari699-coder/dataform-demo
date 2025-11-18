@@ -1,0 +1,4 @@
+defaultProject: spatial-lock-478216-m7
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.35
