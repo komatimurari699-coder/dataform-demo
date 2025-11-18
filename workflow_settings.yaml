@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 defaultProject: spatial-lock-478216-m7
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.35
+=======
+defaultProject: qwiklabs-gcp-04-b079edbc729c
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.26
+>>>>>>> refs/heads/quickstart-workspace
